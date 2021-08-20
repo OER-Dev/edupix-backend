@@ -1,0 +1,28 @@
+{
+    "name": "edupix",
+    "version": "1.0.0",
+    "description": "Server and API for eduPix",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "pictures",
+        "and",
+        "audio",
+        "for",
+        "OER",
+        "development"
+    ],
+    "author": "Christer Gundersen",
+    "license": "Apache-2.0",
+    "devDependencies": {
+        "nodemon": "^2.0.7"
+    },
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "mongo": "^0.1.0"
+    }
+}

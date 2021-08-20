@@ -1,2 +1,3 @@
 # edupix-backend
-Backend with API endpoints
+
+using node.js and express
